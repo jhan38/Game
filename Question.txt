@@ -1,0 +1,13 @@
+How is the repository/project organized?
+People usually put their best code in the master branch and put the the most important projects on their profile page. Beside, they will use tag to highlight the information/version. 
+
+How do they resolve pull requests?
+People first will pull the current code to a branch, and do some bug fix. Second, they will commit the changes and push them to the repository to see if the bug have been fixed.
+
+Can you get a sense of how contributions are evaluated in this community?
+By reviewing the stars they have, we could know how popular the repository is. 
+
+How is the community organized?
+Github allows people to collaborate across many projects at once. It can freely share resources online and manage members who can assess to the projects. 
+
+
